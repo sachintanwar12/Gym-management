@@ -1,4 +1,4 @@
-[GYM_MANAGEMENT_README.md](https://github.com/user-attachments/files/29380053/GYM_MANAGEMENT_README.md)
+(https://github.com/user-attachments/files/29380053/GYM_MANAGEMENT_README.md)
 # 🏋️‍♂️ TANWAR GYM Management System
 
 ## 📸 Screenshots
