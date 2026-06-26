@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TANWAR GYM Management System</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>TANWAR GYM</h1>
+    <p>Smart Gym Management System</p>
+</header>
+
+<div class="dashboard">
+
+    <div class="card">
+        <h2 id="memberCount">0</h2>
+        <p>Total Members</p>
+    </div>
+
+    <div class="card">
+        <h2 id="attendanceCount">0</h2>
+        <p>Today's Attendance</p>
+    </div>
+
+    <div class="card">
+        <h2 id="expiringCount">0</h2>
+        <p>Expiring Memberships</p>
+    </div>
+
+</div>
+
+<div class="container">
+
+<h2>Add Member</h2>
+
+<input type="text" id="name" placeholder="Member Name">
+<input type="number" id="age" placeholder="Age">
+<input type="number" id="weight" placeholder="Weight (kg)">
+<input type="number" id="height" placeholder="Height (cm)">
+<input type="date" id="expiry">
+
+<button onclick="addMember()">Add Member</button>
+
+<h2>Search Member</h2>
+
+<input type="text" id="search" placeholder="Search..." onkeyup="searchMember()">
+
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Age</th>
+<th>BMI</th>
+<th>Expiry</th>
+<th>Action</th>
+</tr>
+</thead>
+
+<tbody id="memberTable"></tbody>
+
+</table>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
