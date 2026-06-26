@@ -6,8 +6,11 @@
 -   Dashboard
 <img width="1915" height="938" alt="image" src="https://github.com/user-attachments/assets/b0528db7-944a-46b6-9492-bbc68554309f" />
 -   Add Member
+-   <img width="1755" height="452" alt="image" src="https://github.com/user-attachments/assets/8aff1447-d22b-4835-9e39-8e84a8d00144" />
 -   Search Member
--   Member List
+-   <img width="1804" height="276" alt="image" src="https://github.com/user-attachments/assets/0c9dba5b-53a0-4a18-8eac-50fe2c71b2d8" />
+
+
 
 ## 📖 Overview
 
